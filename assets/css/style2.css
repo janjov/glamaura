@@ -57,21 +57,6 @@ span{
     color: #fff;
 }
 
-.contact__button button{
-    display:inline-block;
-    margin-top:1rem;
-    padding:1rem 3rem;
-    color:#222;
-    font-size:1.7rem;
-    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.7);
-    cursor: pointer;
-}
-.contact__button button:hover{
-    letter-spacing: .1rem;
-    background: #F08080;
-    color: #fff;
-}
-
 
 @keyframes fadeIn{
     0%{
