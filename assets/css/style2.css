@@ -662,7 +662,7 @@ span{
 
 @media (max-width: 1282px){
     iframe{
-        width: 100%;
+        width: 70%;
         height: 505px;
     }
 }
